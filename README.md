@@ -24,3 +24,4 @@ echo Y | sudo apt-get install python3-pip<br/>
 echo Y | sudo apt-get install python3-h5py<br/>
 echo Y | sudo apt-get install python3-opencv<br/>
 echo Y | sudo pip3 install flask<br/>
+echo Y | sudo pip3 install matplotlib<br/>
